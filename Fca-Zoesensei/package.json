@@ -1,0 +1,196 @@
+{
+  "_from": "fca-project-dongdev@latest",
+  "_id": "fca-project-dongdev@3.9.2",
+  "_inBundle": false,
+  "_integrity": "sha512-o4ZXOQFwOix9wvawMOdPXpIL3Fmov74KY4ED3lIG4Rj4eYG4EvwTIHkAqiroLjzGfY/m5ev2y0bT1SEfMZ5tKw==",
+  "_location": "/fca-project-dongdev",
+  "_phantomChildren": {
+    "abort-controller": "3.0.0",
+    "accepts": "1.3.8",
+    "agent-base": "6.0.2",
+    "aproba": "2.0.0",
+    "array-flatten": "1.1.1",
+    "arraybuffer-to-buffer": "0.0.7",
+    "asynckit": "0.4.0",
+    "aws-sign2": "0.7.0",
+    "aws4": "1.11.0",
+    "base64-js": "1.5.1",
+    "bytes": "3.1.2",
+    "caseless": "0.12.0",
+    "cheerio-select": "2.1.0",
+    "color-support": "1.1.3",
+    "combined-stream": "1.0.8",
+    "console-control-strings": "1.1.0",
+    "content-disposition": "0.5.4",
+    "content-type": "1.0.4",
+    "cookie": "0.5.0",
+    "cookie-signature": "1.0.6",
+    "debug": "2.6.9",
+    "delegates": "1.0.0",
+    "depd": "2.0.0",
+    "destroy": "1.2.0",
+    "dom-serializer": "2.0.0",
+    "domhandler": "5.0.3",
+    "domutils": "3.0.1",
+    "encodeurl": "1.0.2",
+    "escape-html": "1.0.3",
+    "etag": "1.8.1",
+    "events": "3.3.0",
+    "extend": "3.0.2",
+    "finalhandler": "1.2.0",
+    "forever-agent": "0.6.1",
+    "form-data": "4.0.0",
+    "fresh": "0.5.2",
+    "har-validator": "5.1.5",
+    "has-unicode": "2.0.1",
+    "htmlparser2": "8.0.1",
+    "http-errors": "2.0.0",
+    "http-signature": "1.2.0",
+    "iconv-lite": "0.4.24",
+    "ieee754": "1.2.1",
+    "is-typedarray": "1.0.0",
+    "isstream": "0.1.2",
+    "json-stringify-safe": "5.0.1",
+    "jssha": "3.2.0",
+    "merge-descriptors": "1.0.1",
+    "methods": "1.1.2",
+    "mime-types": "2.1.35",
+    "oauth-sign": "0.9.0",
+    "on-finished": "2.4.1",
+    "parse5": "7.0.0",
+    "parse5-htmlparser2-tree-adapter": "7.0.0",
+    "parseurl": "1.3.3",
+    "path-to-regexp": "0.1.7",
+    "performance-now": "2.1.0",
+    "process": "0.11.10",
+    "proxy-addr": "2.0.7",
+    "range-parser": "1.2.1",
+    "raw-body": "2.5.1",
+    "safe-buffer": "5.2.1",
+    "send": "0.18.0",
+    "serve-static": "1.15.0",
+    "set-blocking": "2.0.0",
+    "setprototypeof": "1.2.0",
+    "side-channel": "1.0.4",
+    "signal-exit": "3.0.7",
+    "statuses": "2.0.1",
+    "string-width": "4.2.3",
+    "strip-ansi": "6.0.1",
+    "tough-cookie": "2.5.0",
+    "tunnel-agent": "0.6.0",
+    "type-is": "1.6.18",
+    "unpipe": "1.0.0",
+    "utils-merge": "1.0.1",
+    "vary": "1.1.2",
+    "wide-align": "1.1.5"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "fca-project-dongdev@latest",
+    "name": "fca-project-dongdev",
+    "escapedName": "fca-project-dongdev",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fca-project-dongdev/-/fca-project-dongdev-3.9.2.tgz",
+  "_shasum": "5671a8f824306df3822ca08d476e60a688f68b69",
+  "_spec": "fca-project-dongdev@latest",
+  "_where": "/home/runner/goc",
+  "author": {
+    "name": "Anup Kumar"
+  },
+  "bugs": {
+    "url": "https://github.com/dongdev06/Fca-Project-Dongdev/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "aes-js": "latest",
+    "assert": "latest",
+    "bluebird": "latest",
+    "chalk": "4.1.2",
+    "cheerio": "latest",
+    "crypto": "latest",
+    "crypto-js": "latest",
+    "express": "latest",
+    "got": "^11.8.3",
+    "https-proxy-agent": "latest",
+    "is-hexcolor": "^1.0.0",
+    "lodash": "",
+    "mqtt": "latest",
+    "node-superfetch": "",
+    "npmlog": "latest",
+    "os": "latest",
+    "path": "latest",
+    "pm2": "latest",
+    "pretty-ms": "7.0.1",
+    "readline": "latest",
+    "request": "latest",
+    "dongdev-database": "git+https://github.com/dongdev06/dongdev-database.git",
+    "dongdev-sp": "git+https://github.com/dongdev06/dongdev-sp.git",
+    "totp-generator": "latest",
+    "uuid-apikey": "latest",
+    "websocket-stream": "latest"
+  },
+  "deprecated": false,
+  "description": "Fca Được DongDev Duy Trì và Phát Triển Được Mod Lại Từ Scr Của Fca-Rqzax, src gốc Fca-Horizon-Remake",
+  "devDependencies": {
+    "eslint": "latest",
+    "mocha": "latest",
+    "prettier": "latest"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+      "sourceType": "module"
+    },
+    "rules": {
+      "linebreak-style": [
+        "error",
+        "unix"
+      ],
+      "semi": [
+        "error",
+        "always"
+      ],
+      "no-unused-vars": [
+        1,
+        {
+          "argsIgnorePattern": "^_"
+        }
+      ]
+    }
+  },
+  "homepage": "https://github.com/dongdev06/Fca-Project-Dongdev#readme",
+  "keywords": [
+    "Fca",
+    "Dongdev",
+    "Dongdev fca",
+    "fca"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "fca-project-dongdev",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dongdev06/Fca-Project-Dongdev.git"
+  },
+  "scripts": {
+    "lint": "eslint **.js",
+    "prettier": "prettier utils.js src/* --write",
+    "test": "mocha"
+  },
+  "version": "3.9.2"
+}
